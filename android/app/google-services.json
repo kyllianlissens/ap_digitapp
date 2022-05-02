@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "916398407923",
+    "project_id": "digitapp-ea40c",
+    "storage_bucket": "digitapp-ea40c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916398407923:android:564ad7f60d49718d53f786",
+        "android_client_info": {
+          "package_name": "edu.ap.ap_digitapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916398407923-q8d2s9e8kebj24fufqtsm497bgb7dadj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT98C60GhiLJtXYEwofka1O2lhqKazekY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916398407923-q8d2s9e8kebj24fufqtsm497bgb7dadj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
